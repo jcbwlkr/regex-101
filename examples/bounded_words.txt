@@ -1,0 +1,2 @@
+It would be a fool's errand to try to
+replace all occurences of foo with bar.

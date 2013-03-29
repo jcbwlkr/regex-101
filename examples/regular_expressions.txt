@@ -1,0 +1,4 @@
+Often abbreviated as regex or
+regexp, regular expressions are
+quite powerful
+

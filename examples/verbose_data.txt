@@ -1,0 +1,8 @@
+* Most characters match themselves.
+* These are special [\^$.|?*+()
+* [abc] matches a or b or c
+* Star * repeats match 0 or more times
+* Plus + repeats match 1 or more times
+* (Back)references bring sexy \1
+* Assertions match positions(?=before)
+  or (?<=after) another match. Or not!
